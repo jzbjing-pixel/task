@@ -1,0 +1,8 @@
+{
+  "id": "rill.tasks",
+  "version": "0.1.4",
+  "date": "2026-10-13",
+  "sha256": "d2787d5d599e8dea944b9eaee0813f1a4dca9ccc924011c6b520eaf131ca21d0",
+  "requiresHost": "Rill 2026-10-13 development host or later with unified binding fields, navigation modules and thumbnail cache",
+  "previous": "0.1.3"
+}
